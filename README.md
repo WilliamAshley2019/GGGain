@@ -138,9 +138,13 @@ Zero-latency processing
 If you find GGGain useful, please:
 
 ⭐ Star this repository
+
 🐛 Report bugs and request features
+
 📢 Share with other music producers
+
 💝 Consider supporting William Ashley's future audio software development, and music aspirations or just buy me a coffee at
+
 https://buymeacoffee.com/williamashley
 
 

@@ -79,12 +79,11 @@ bash# Clone the repository
 git clone https://github.com/WilliamAshley2019/GGGain.git
 cd GGGain
 
-# Open the Visual Studio solution
-# Navigate to: Builds/VisualStudio2022/GGGain.sln
+# Open the Visual Studio solution from a default projucer jucer with plugin basics build type modules. 
+replace the existing plugin code with the files supplied. Insure they are linked to the project if copying them
+into the project.
 
-# Build configurations available:
-# - Debug x64
-# - Release x64
+The project should build.
  Licensing & Legal
 Plugin License
 This project is licensed under the GNU General Public License v3.0. See LICENSE for full terms.
